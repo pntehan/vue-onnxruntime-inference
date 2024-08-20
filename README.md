@@ -19,3 +19,6 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=pntehan/vue-onnxruntime-inference&type=Date)](https://star-history.com/#pntehan/vue-onnxruntime-inference&Date)
